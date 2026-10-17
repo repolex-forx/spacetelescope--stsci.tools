@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/spacetelescope/stsci.tools/commit/fc95b645196345f4a8a29ac11b5269f475f69a63",
       "git:hexsha": "fc95b645196345f4a8a29ac11b5269f475f69a63",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "4.3.1"
     },
     {
